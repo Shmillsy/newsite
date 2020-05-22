@@ -1,0 +1,12 @@
+body {
+  background-color: darkorchid;
+
+      }
+hr {
+  border-color: White;
+  border-width: 20px;
+  border-style: none;
+  border-top-style: dotted;
+  height: 0px;
+  width: 15%;
+}
